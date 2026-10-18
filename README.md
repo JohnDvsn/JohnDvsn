@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ffffff,100:000000&height=220&section=header&text=CALLING%20CARD&fontSize=62&fontColor=000000&fontAlignY=38&desc=%E2%97%A2%20NEW%20TARGET%20ACQUIRED%20%E2%97%A3&descSize=18&descAlignY=60&stroke=ffffff&strokeWidth=2" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=%E2%96%B6+Hi%2C+I'm+USERNAME;%E2%96%B6+Developer+%7C+Problem+Solver;%E2%96%B6+Stealing+bugs%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=%E2%96%B6+Hi%2C+I'm+John+D;%E2%96%B6+Developer+%7C+Problem+Solver;%E2%96%B6+Stealing+bugs%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 </div>
