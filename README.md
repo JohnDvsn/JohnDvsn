@@ -74,7 +74,7 @@
 <br>
 
 ## ▌ ALL-OUT ATTACK ✦
-
+<div align="center">
 ```
 ╔══════════════════════════════════════════╗
 ║  ✦  Always learning                      ║
