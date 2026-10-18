@@ -53,26 +53,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&ring_color=FFFFFF&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JohnDvsn&show_icons=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&ring_color=FFFFFF&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDvsn&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF&border=FFFFFF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDvsn&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF&border=FFFFFF" />
 
 </div>
-
-<br>
-
-## ▌ PALACES (Featured Projects)
-
-| 🏛️ Palace | 📜 Treasure | 🔧 Weapon |
-|:---|:---|:---|
-| **[Project One](https://github.com/USERNAME/project-one)** | Deskripsi singkat project pertamamu | `React` `Node.js` |
-| **[Project Two](https://github.com/USERNAME/project-two)** | Deskripsi singkat project keduamu | `Python` `Flask` |
-| **[Project Three](https://github.com/USERNAME/project-three)** | Deskripsi singkat project ketigamu | `PHP` `MySQL` |
-
-<br>
 
 ## ▌ CONFIDANTS (Contact)
 
